@@ -26,30 +26,42 @@ footer {
 }
 
 .w {
-
+  background-image: url("images/abs.jpg");
+  background-size: cover;
 }
 
 .a {
-
+  background-image: url("images/dunoo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .s {
-
+  background-image: url("images/ceb.jpg");
+  background-size: cover;
 }
 
 .d {
-
+  background-image: url("images/ogre.png");
+  background-size: cover;
 }
 
 .j {
+  background-image: url("images/boo.webp");
+  background-size: cover;
 
 }
 
 .k {
+  background-image: url("images/echoslam.jpg");
+ background-size: 280px;
+ background-position: center;
 
 }
 
 .l {
+  background-image: url("images/io.png");
+  background-size: cover;;
 
 }
 
@@ -71,23 +83,6 @@ footer {
   color: red;
 }
 
-/* .drum {
-  outline: none;
-  border: 10px solid #404B69;
-  font-size: 5rem;
-  font-family: 'Arvo', cursive;
-  line-height: 2;
-  font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
-  border-radius: 15px;
-  display: inline-block;
-  width: 150px;
-  height: 150px;
-  text-align: center;
-  margin: 10px;
-  background-color: white;
-} */
 .drum {
   width: 160px;
   height: 160px;
