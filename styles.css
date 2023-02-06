@@ -18,11 +18,12 @@ h1 {
   margin: 40px 0;
   letter-spacing: 12px;
 
+
 }
 
 footer {
   color: #DBEDF3;
-  font-family: sans-serif;
+  font-family: 'Bebas Neue', cursive;
 }
 
 .w {
@@ -75,7 +76,7 @@ footer {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
+  box-shadow: 0 3px 4px 0 #69a6bb;
   opacity: 0.5;
 }
 
